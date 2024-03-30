@@ -1,0 +1,90 @@
+
+###### [[45 carta -de -paulo -aos -romanos 1|carta -de -paulo -aos -romanos 1 ⏮]] | [[45 carta -de -paulo -aos -romanos 9|carta -de -paulo -aos -romanos 9 ◀]] | [[carta -de -paulo -aos -romanos]] | [[45 carta -de -paulo -aos -romanos 11|▶ carta -de -paulo -aos -romanos 11]] | [[45 carta -de -paulo -aos -romanos 16|⏭ carta -de -paulo -aos -romanos 16|]]
+
+###### 1
+``` verse
+45 10 1 
+```
+###### 2
+``` verse
+45 10 2 
+```
+###### 3
+``` verse
+45 10 3 
+```
+###### 4
+``` verse
+45 10 4 
+```
+###### 5
+``` verse
+45 10 5 
+```
+###### 6
+``` verse
+45 10 6 
+```
+###### 7
+``` verse
+45 10 7 
+```
+###### 8
+``` verse
+45 10 8 
+```
+###### 9
+``` verse
+45 10 9 
+```
+###### 10
+``` verse
+45 10 10 
+```
+###### 11
+``` verse
+45 10 11 
+```
+###### 12
+``` verse
+45 10 12 
+```
+###### 13
+``` verse
+45 10 13 
+```
+###### 14
+``` verse
+45 10 14 
+```
+###### 15
+``` verse
+45 10 15 
+```
+###### 16
+``` verse
+45 10 16 
+```
+###### 17
+``` verse
+45 10 17 
+```
+###### 18
+``` verse
+45 10 18 
+```
+###### 19
+``` verse
+45 10 19 
+```
+###### 20
+``` verse
+45 10 20 
+```
+###### 21
+``` verse
+45 10 21 
+```
+
+###### [[45 carta -de -paulo -aos -romanos 1|carta -de -paulo -aos -romanos 1 ⏮]] | [[45 carta -de -paulo -aos -romanos 9|carta -de -paulo -aos -romanos 9 ◀]] | [[carta -de -paulo -aos -romanos]] | [[45 carta -de -paulo -aos -romanos 11|▶ carta -de -paulo -aos -romanos 11]] | [[45 carta -de -paulo -aos -romanos 16|⏭ carta -de -paulo -aos -romanos 16|]]
+

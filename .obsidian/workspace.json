@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "7d76980d5b62af3f",
+    "type": "split",
+    "children": [
+      {
+        "id": "cfef693f67ed1026",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e22421ddd7d59c13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "calvin/daniel b (7-12).md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "689eb2168810e593",
+    "type": "split",
+    "children": [
+      {
+        "id": "48b78b9526715a1a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "334beb85555fb70d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f446c7cc9f2446eb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:pessoa",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "856496f6aeb039ec",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bb259280d5eb6aad",
+    "type": "split",
+    "children": [
+      {
+        "id": "0a2fe31272238360",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0868b4ef4b060737",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "calvin/daniel b (7-12).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9a58c50c793d7e57",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "calvin/daniel b (7-12).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3063109e6dc1de73",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4d4e205cc8302158",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "calvin/daniel b (7-12).md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "timelines-revamped:Insert Timeline Event": false,
+      "timelines-revamped:Insert Timeline Event (Frontmatter)": false
+    }
+  },
+  "active": "e22421ddd7d59c13",
+  "lastOpenFiles": [
+    "calvin/Daniel 7 - by Calvin.md",
+    "calvin/Daniel 12 - by Calvin.md",
+    "calvin/Daniel 11 - by calvin.md",
+    "calvin/Daniel 10 - by calvin.md",
+    "calvin/Daniel 9 - by Calvin.md",
+    "calvin/Daniel 8 - by Calvin.md",
+    "calvin/daniel b (7-12).md",
+    "estudo em daniel/cap 7.md",
+    "estudo em daniel/auxiliar/time-line.md",
+    "estudo em daniel/auxiliar/timeline/eventos/Morte de Antioco segundo o Livro de Macabeus.md",
+    "estudo em daniel/auxiliar/timeline/organizacao/sucessores de alexandre/Dinastia antigónida.md",
+    "estudo em daniel/auxiliar/timeline/organizacao/sucessores de alexandre/Dinastia Atálida.md",
+    "estudo em daniel/auxiliar/timeline/organizacao/sucessores de alexandre/Imperio seleucida.md",
+    "estudo em daniel/auxiliar/timeline/organizacao/sucessores de alexandre/Reino Ptolemaico.md",
+    "estudo em daniel/auxiliar/timeline/organizacao/Grego - Macedonio.md",
+    "estudo em daniel/auxiliar/timeline/pessoa/Alexandre O Grande.md",
+    "estudo em daniel/auxiliar/timeline/organizacao/Imperio Arquemeneda - Medo Persa.md",
+    "estudo em daniel/auxiliar/timeline/pessoa/Antíoco IV Epifânio.md",
+    "estudo em daniel/auxiliar/timeline/eventos/Revolta dos Macabeus.md",
+    "estudo em daniel/auxiliar/timeline/pessoa/Jesus Cristo.md",
+    "estudo em daniel/auxiliar/timeline/eventos/Exilio judeu e reconstrução do templo.md",
+    "estudo em daniel/auxiliar/timeline/organizacao/Roma.md",
+    "estudo em daniel/auxiliar/timeline/pessoa/Eu.md",
+    "estudo em daniel/auxiliar/timeline/pessoa/Davi Rei de Israel.md",
+    "estudo em daniel/auxiliar/timeline/eventos/Destruição de Jerusalem.md",
+    "estudo em daniel/auxiliar/timeline/organizacao/Babilônia.md",
+    "estudo em daniel/auxiliar/timeline/organizacao/sucessores de alexandre",
+    "estudo em daniel/auxiliar/timeline/eventos",
+    "estudo em daniel/auxiliar/timeline/organizacao",
+    "estudo em daniel/auxiliar/timeline/pessoa",
+    "estudo em daniel/auxiliar/timeline",
+    "estudo em daniel/auxiliar",
+    "estudo em daniel/refs",
+    "estudo em daniel",
+    "calvin",
+    "b/66-apocalipse",
+    "Untitled 1.canvas",
+    "Untitled.canvas"
+  ]
+}
