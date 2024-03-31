@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "cfef693f67ed1026",
+        "id": "f0cb65957cda7513",
         "type": "tabs",
         "children": [
           {
-            "id": "e22421ddd7d59c13",
+            "id": "2e8e7ee0d50d247c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "calvin/daniel b (7-12).md",
+                "file": "estudo em daniel/Capitulos Comentados/Cap 7 - Sonho dos 4 animais, Chifres e Reino.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 368.5026054382324
   },
   "right": {
     "id": "bb259280d5eb6aad",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "calvin/daniel b (7-12).md",
+                "file": "estudo em daniel/Capitulos Comentados/Cap 7 - Sonho dos 4 animais, Chifres e Reino.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "calvin/daniel b (7-12).md",
+                "file": "estudo em daniel/Capitulos Comentados/Cap 7 - Sonho dos 4 animais, Chifres e Reino.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "calvin/daniel b (7-12).md"
+                "file": "estudo em daniel/Capitulos Comentados/Cap 7 - Sonho dos 4 animais, Chifres e Reino.md"
               }
             }
           }
@@ -148,44 +148,44 @@
       "timelines-revamped:Insert Timeline Event (Frontmatter)": false
     }
   },
-  "active": "e22421ddd7d59c13",
+  "active": "2e8e7ee0d50d247c",
   "lastOpenFiles": [
-    "calvin/Daniel 7 - by Calvin.md",
-    "calvin/Daniel 12 - by Calvin.md",
-    "calvin/Daniel 11 - by calvin.md",
-    "calvin/Daniel 10 - by calvin.md",
-    "calvin/Daniel 9 - by Calvin.md",
-    "calvin/Daniel 8 - by Calvin.md",
-    "calvin/daniel b (7-12).md",
-    "estudo em daniel/cap 7.md",
+    "estudo em daniel/Capitulos Comentados/Cap 11 - Informações sobre os futuros reinos.md",
+    "estudo em daniel/Capitulos Comentados/Cap 2 - Sonho de Nabucodonozor.md",
     "estudo em daniel/auxiliar/time-line.md",
-    "estudo em daniel/auxiliar/timeline/eventos/Morte de Antioco segundo o Livro de Macabeus.md",
-    "estudo em daniel/auxiliar/timeline/organizacao/sucessores de alexandre/Dinastia antigónida.md",
-    "estudo em daniel/auxiliar/timeline/organizacao/sucessores de alexandre/Dinastia Atálida.md",
-    "estudo em daniel/auxiliar/timeline/organizacao/sucessores de alexandre/Imperio seleucida.md",
-    "estudo em daniel/auxiliar/timeline/organizacao/sucessores de alexandre/Reino Ptolemaico.md",
-    "estudo em daniel/auxiliar/timeline/organizacao/Grego - Macedonio.md",
-    "estudo em daniel/auxiliar/timeline/pessoa/Alexandre O Grande.md",
+    "estudo em daniel/refs/Reis/Belsazar.md",
+    "estudo em daniel/refs/Reis/Reis da persia.md",
+    "estudo em daniel/refs/Reis/Nabucodonosor II.md",
+    "estudo em daniel/refs/Reis",
+    "estudo em daniel/refs/Reis/Reis da persia/Ciro II (O grande).md",
     "estudo em daniel/auxiliar/timeline/organizacao/Imperio Arquemeneda - Medo Persa.md",
-    "estudo em daniel/auxiliar/timeline/pessoa/Antíoco IV Epifânio.md",
-    "estudo em daniel/auxiliar/timeline/eventos/Revolta dos Macabeus.md",
-    "estudo em daniel/auxiliar/timeline/pessoa/Jesus Cristo.md",
-    "estudo em daniel/auxiliar/timeline/eventos/Exilio judeu e reconstrução do templo.md",
-    "estudo em daniel/auxiliar/timeline/organizacao/Roma.md",
-    "estudo em daniel/auxiliar/timeline/pessoa/Eu.md",
-    "estudo em daniel/auxiliar/timeline/pessoa/Davi Rei de Israel.md",
-    "estudo em daniel/auxiliar/timeline/eventos/Destruição de Jerusalem.md",
-    "estudo em daniel/auxiliar/timeline/organizacao/Babilônia.md",
+    "Welcome.md",
+    "create a link.md",
+    "2024-03-28.md",
+    "estudo em daniel/refs/Reis/Reis da persia",
+    "estudo em daniel/Capitulos Comentados/Cap 10 - Intro do cap 11.md",
+    "estudo em daniel/Capitulos apenas divididos/Cap 1.md",
+    "estudo em daniel/Capitulos Comentados/Cap 12 - Fim da visão do cap 11.md",
+    "estudo em daniel/Capitulos Comentados/Cap 9 - 70 semanas.md",
+    "estudo em daniel/Capitulos Comentados/Cap 8 - Visão Carneiro e o Bode.md",
+    "estudo em daniel/Capitulos Comentados/Cap 7 - Sonho dos 4 animais, Chifres e Reino.md",
+    "estudo em daniel/Capitulos Comentados/Cap 6.md",
+    "estudo em daniel/Capitulos Comentados/Cap 5 - Mão escreve na parede.md",
+    "estudo em daniel/Capitulos Comentados/Cap 4.md",
+    "estudo em daniel/Capitulos Comentados/Cap 3.md",
+    "estudo em daniel/Capitulos Comentados/Cap 1.md",
+    "estudo em daniel/Capitulos Comentados",
+    "estudo em daniel/Capitulos apenas divididos/Cap 10 - Intro do cap 11.md",
+    "estudo em daniel/Capitulos apenas divididos",
+    "calvin/Daniel 11 - by calvin.md",
+    "estudo em daniel/Capitulos apenas divididos/Cap 12 - Fim da visão do cap 11.md",
+    "estudo em daniel/Capitulos apenas divididos/Cap 11 - Informações sobre os futuros reinos.md",
     "estudo em daniel/auxiliar/timeline/organizacao/sucessores de alexandre",
     "estudo em daniel/auxiliar/timeline/eventos",
     "estudo em daniel/auxiliar/timeline/organizacao",
     "estudo em daniel/auxiliar/timeline/pessoa",
     "estudo em daniel/auxiliar/timeline",
     "estudo em daniel/auxiliar",
-    "estudo em daniel/refs",
-    "estudo em daniel",
-    "calvin",
-    "b/66-apocalipse",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
