@@ -2,6 +2,57 @@
 1No primeiro ano de Belsazar, rei da Babilônia, teve Daniel um sonho e visões ante seus olhos, quando estava no seu leito; escreveu logo o sonho e relatou a suma de todas as coisas. 
 
 # O Sonho
+
+```mermaid
+flowchart TB
+	a1["1 - Leão"]
+	a2["2 - Urso"]
+	a3["3 - Leopardo"]
+	a4["4 - Chifrudo"]
+	a4--"Ultimo animal teve chifres"-->Chifres
+	
+    subgraph Animais
+    a1-->a2
+    a2-->a3
+    a3-->a4
+    end
+
+	subgraph Chifres
+		subgraph Primeiros 10 Chifres
+		    c1
+		    c2
+		    c3
+		    c4
+		    c5
+		    c6
+		    c7
+		    c8
+		    c9
+		    c10
+		    end
+		subgraph Último Chifre
+			c11
+			end
+	c1-->c11
+	c2-->c11
+	c3-->c11
+    end
+
+	subgraph Tribunal
+		an["Ancião"]
+		l["Livros sao abertos"]
+		subgraph Depois do tribunal
+			j1["O quarto animal tem o corpo desfeito e foi queimado"]
+			j2["Outros 3 animais tem vida prolongada por um prazo de tempo"]
+			end
+	end
+
+	c11-->an
+	an-->l
+	l-->j1
+	j1-->j2
+	j2-->D["Dominio do Filho do Homem"]
+```
 ## Quatro animais
 2Falou Daniel e disse: Eu estava olhando, durante a minha visão da noite, e eis que os quatro ventos do céu agitavam o mar Grande. 3Quatro animais, grandes, diferentes uns dos outros, subiam do mar. 
 ### Primeiro Animal - Leão
@@ -31,6 +82,32 @@
 15Quanto a mim, Daniel, o meu espírito foi alarmado dentro de mim, e as visões da minha cabeça me perturbaram. 16Cheguei-me a um dos que estavam perto e lhe pedi a verdade acerca de tudo isto. Assim, ele me disse e me fez saber a interpretação das coisas: 
 
 # A interpretação
+
+```mermaid
+flowchart TB
+	a1["1 - Leão Rei/Reino"]
+	a2["2 - Urso Rei/Reino"]
+	a3["3 - Leopardo Rei/Reino"]
+	a4["4 - Chifrudo Rei/Reino"]
+	a4--"Ultimo animal teve chifres"-->c10
+	
+    subgraph Animais
+    a1-->a2
+    a2-->a3
+    a3-->a4
+    end
+
+	c10["10 Chifres/Reis do 4º reino"]--"3 Chifres Morrem para vir o 11º"-->
+	c11["Ultimo Chifre/Rei 11º"] --"Profana e Blasfema"-->
+	s["Santos entregues por 3,5 (1, 2 e 1/2)"] -->
+	t["Tribunal Julga e consome o ultimo Reino"] -->
+	d["O reino,
+	o domínio, e a majestade dos reinos
+	 debaixo de todo o céu serão dados 
+	 ao povo dos santos do Altíssimo;"] -->
+	fim["Esse reino nao tem fim"]
+	
+```
 
 ## Primeiro é informado um resumo do sonho
 17Estes grandes animais, que são quatro, são quatro reis que se levantarão da terra. 18Mas os santos do Altíssimo receberão o reino e o possuirão para todo o sempre, de eternidade em eternidade. 
